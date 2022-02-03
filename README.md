@@ -55,7 +55,12 @@ Once you clone the file from this repository, launch REMIX IDE to view and edit 
 
 ### Compile the Contract in the "JavaScript VM", once this is done, then click Deploy.
 
-![Deploy](Execution_Results/deploy.png)
+![Deploy](Execution_Results/deploy.PNG)
+
+### Add Accounts to setAccounts function.
+
+![Deploy](Execution_Results/deploy.PNG)
+
 
 #### **Send 1 ether as wei**
 
