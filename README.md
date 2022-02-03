@@ -45,6 +45,10 @@ The following libraries were used:
 
 Once you clone the file from this repository, launch REMIX IDE to view and edit the joint_savings.sol file. Then when on the REMIX IDE, click on the left icon logo, and then click Open file and navigate to where the git clone files are locally saved on your machine.
 
+
+### Use QR Code to launch REMIX IDE on your phone
+![QR Code](Execution_Results/QR_code.PNG)
+
 ---
 
 ## Visualization
